@@ -71,3 +71,13 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
+
+
+###
+
+<br clear="both">
+
+<img src="https://streak-stats.demolab.com/?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="Snake animation" />
+
+###
+
