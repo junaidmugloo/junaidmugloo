@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=joker+man&size=28&duration=3000&pause=1000&width=535&lines=Hi+%F0%9F%91%8B!+My+name+is+Junaid+Mugloo+;+I'm+a+Software+Engineer+from+Kashmir.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=joker+man&size=28&duration=3000&pause=1000&width=580&lines=Hi+%F0%9F%91%8B!+My+name+is+Junaid+Mugloo+;+I'm+a+Software+Engineer+from+Kashmir.)](https://git.io/typing-svg)
 
 ###
 <div align="center">
