@@ -8,11 +8,18 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Junaidmugloo&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Junaidmugloo&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Junaidmugloo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=100&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/C5603AQH0PZ419WF7zA/profile-displayphoto-shrink_800_800/0/1660847109960?e=2147483647&v=beta&t=Us2mPhHBuWRXRJ5qJpHOxnTQq3T-SCeHEaXkzGAToTA"  />
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Junaidmugloo/count.svg?"  />
+</div>
+
+###
 
 ###
 
