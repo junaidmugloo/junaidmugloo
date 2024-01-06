@@ -81,11 +81,16 @@
 
 ###
 Some Live Projects 
-## 1 Delivery App  ###https://delightpass-d5c89.web.app
-## 2 Fast Resume CV Maker ###https://resume-maker-be73d.web.app/
-## 3 Graphical DSA ###https://graphical-dsa.web.app/
-## 4 Profile Readme File Generator ###https://git-readme-creator.web.app
-## 5 Single Page Portfolio Web App ###https://junaid-mugloo.web.app/
+## 1 Delivery App  
+###https://delightpass-d5c89.web.app
+## 2 Fast Resume CV Maker 
+###https://resume-maker-be73d.web.app/
+## 3 Graphical DSA 
+###https://graphical-dsa.web.app/
+## 4 Profile Readme File Generator 
+###https://git-readme-creator.web.app
+## 5 Single Page Portfolio Web App 
+###https://junaid-mugloo.web.app/
 
 ###
 
