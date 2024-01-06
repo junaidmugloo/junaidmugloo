@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=joker+man&size=28&duration=3000&pause=1000&width=580&lines=Hi+%F0%9F%91%8B!+My+name+is+Junaid+Mugloo+;+I'm+a+Software+Engineer+from+Kashmir.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=joker+man&size=28&duration=3000&pause=1000&width=580&lines=Hi+%F0%9F%91%8B!+My+name+is+Junaid+Mugloo+;+I'm+a+Software+Engineer.)](https://git.io/typing-svg)
 
 ###
 <div align="center">
@@ -81,11 +81,11 @@
 
 ###
 Some Live Projects 
-# 1 Delivery App  https://delightpass-d5c89.web.app
-# 2 Fast Resume CV Maker https://resume-maker-be73d.web.app/
-# 3 Graphical DSA https://graphical-dsa.web.app/
-# 4 Profile Readme File Generator https://git-readme-creator.web.app
-# 5 Single Page Portfolio Web App https://junaid-mugloo.web.app/
+## 1 Delivery App  ###https://delightpass-d5c89.web.app
+## 2 Fast Resume CV Maker ###https://resume-maker-be73d.web.app/
+## 3 Graphical DSA ###https://graphical-dsa.web.app/
+## 4 Profile Readme File Generator ###https://git-readme-creator.web.app
+## 5 Single Page Portfolio Web App ###https://junaid-mugloo.web.app/
 
 ###
 
