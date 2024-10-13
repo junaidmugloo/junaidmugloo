@@ -91,6 +91,16 @@ Some Live Projects
 ♧ https://git-readme-creator.web.app
 ## 5 Single Page Portfolio Web App 
 □ https://junaid-mugloo.web.app/
+## 6 Food Ordering Web App
+□ https://junaidmugloo.github.io/eatsome/intro.html
+## 7 Food Ordering Web App
+□ https://junaidmugloo.github.io/ThePIzza/introduction.html
+## 8 Food Ordering Web App
+□ https://eatoearn.com
+## 9 Grocery Store PWA 
+□ https://jazza.in
+## 10 Laravel Travel Website 
+□ https://joytourandtravels.com
 
 ###
 
