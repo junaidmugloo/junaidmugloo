@@ -78,8 +78,8 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-## but me a coffee 
-https://buymeacoffee.com/junaidmugloo 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/junaidmugloo)
+
 
 ###
 Some Live Projects 
